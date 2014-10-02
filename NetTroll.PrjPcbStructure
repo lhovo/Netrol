@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=top.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=CPU.SchDoc|SymbolType=Normal|RawFileName=CPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Ethernet|SchDesignator=Ethernet|FileName=Ethernet.SchDoc|SymbolType=Normal|RawFileName=Ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_Output|SchDesignator=U_Output|FileName=Output.SchDoc|SymbolType=Normal|RawFileName=Output.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
